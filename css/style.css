@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#6F6;
+}
+.ct{
+	margin-top:4px;
+	position:relative;	
+	background-color:rgba(255,255,255,0.5);
+	border-radius:5px;
+	padding:5px;
+	}
+
